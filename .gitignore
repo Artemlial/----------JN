@@ -5,6 +5,7 @@ __pycache__/
 
 #files in data folders
 **/data/**
+minutes_n_ingredients.csv
 
 # C extensions
 *.so
